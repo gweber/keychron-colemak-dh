@@ -1,6 +1,6 @@
 # keychron-colemak-dh
 
-- made for Mac with regular US qwerty keyboard 
+- made for Mac / [Karabiner](https://karabiner-elements.pqrs.org/) with regular US qwerty keyboard 
 
 - [Colemak mod DH as base](https://colemakmods.github.io/mod-dh/)
 
