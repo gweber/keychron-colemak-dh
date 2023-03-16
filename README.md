@@ -1,5 +1,7 @@
 # keychron-colemak-dh
 
+- made for Mac with regular US qwerty keyboard 
+
 - Colemak mod DH as base
 
 - Spacebar + rst for ( { [
