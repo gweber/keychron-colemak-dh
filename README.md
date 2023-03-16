@@ -2,7 +2,7 @@
 
 - made for Mac with regular US qwerty keyboard 
 
-- Colemak mod DH as base
+- [Colemak mod DH as base](https://colemakmods.github.io/mod-dh/)
 
 - Spacebar + rst for ( { [
 - Spacebar + nei for ] } )
