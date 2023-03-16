@@ -13,3 +13,5 @@
 - Spacebar + d for ;
 
 - Caps + neio for left, up, down, right
+- Caps + f for hyphen
+- Caps + u for equal
